@@ -1,0 +1,22 @@
+img {
+    width: 400px;
+    border: 4px solid #4E342E;
+    padding: 8px;
+    border-radius: 20px;
+
+}
+
+body {
+    text-align: center;
+    background: url("https://images.unsplash.com/photo-1623365112530-9a67d6201b4e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMzgzNjkxNQ&ixlib=rb-1.2.1&q=85");
+
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+}
